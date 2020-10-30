@@ -1,5 +1,5 @@
 # nginx-reverse-proxy
 
 ```
-docker-compose up
+docker-compose up -d
 ```
