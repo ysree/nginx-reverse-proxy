@@ -1,5 +1,1 @@
-# nginx-reverse-proxy
-
-```
-docker-compose up -d
-```
+# Dynamic reverse proxy using nginx
